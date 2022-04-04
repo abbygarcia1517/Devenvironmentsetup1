@@ -39,3 +39,16 @@ color: white;
 
 }
 
+.box {
+
+float: left;
+width: 50%;
+padding: 25px;
+
+}
+
+*{
+
+box-sizing: border-box;
+
+}
